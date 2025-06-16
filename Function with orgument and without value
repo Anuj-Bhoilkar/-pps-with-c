@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main()
+{
+int a=5, b=3, c=4, d=8, result, e;
+printf("addition is %d", sum (a,b);
+result= sum(c,d);
+printf("\n%d",result);
+e= sum(9,8);
+printf("\n%d",e);
+return 0;
+}
+int sum (n1,n2)
+{ 
+  int addition;
+  addition= (n1,n2);
+  return addition;
+}
+  
+  
+
